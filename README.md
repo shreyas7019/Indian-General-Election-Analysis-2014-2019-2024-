@@ -1,1 +1,1 @@
-# Indian-General-Election-Analysis-2014-2019-2024-
+I have developed a Power BI dashboard that shows the seats that India's major political parties have won in the general elections of 2014, 2019, and 2024. It provides a breakdown of the victory margins, vote shares, and seat numbers for the major parties in the nation and in the most important states. Analysis of electoral patterns and performance over several election cycles is made possible by the visuals. I have also done Exploratory Data Analysis to find patterns in the dataset.
